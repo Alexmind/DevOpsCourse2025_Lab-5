@@ -24,3 +24,4 @@ Laboratory #5
 ```  ```
 
 ## 🖼 Screenshots
+![image](https://github.com/user-attachments/assets/8e0a93d5-0c63-40af-8d8a-dc139c644b86)
