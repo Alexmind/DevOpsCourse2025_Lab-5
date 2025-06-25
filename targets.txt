@@ -1,6 +1,3 @@
-moodle-epos.permkai.rru
-www.psu.ru
-fast.com
-google.com
 ya.ru
-yandex.ru
+google.com
+microsoft.com
