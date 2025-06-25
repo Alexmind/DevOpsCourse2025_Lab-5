@@ -13,6 +13,7 @@ Laboratory #5
 ## 🔧 Technologies
 - ansible
 - yaml
+- jinja2
 
 ## ⚙  Dependencies
 - ansible
@@ -21,7 +22,13 @@ Laboratory #5
 ``` ansible-playbook <PLAYBOOK> -i <INVENTORY> ```
 
 ## 📋 Examples
-```  ```
+``` ansible-playbook playbook.yml -i inventory.yml ```
 
 ## 🖼 Screenshots
-![image](https://github.com/user-attachments/assets/8e0a93d5-0c63-40af-8d8a-dc139c644b86)
+<div align="center">
+
+| ![image](https://github.com/user-attachments/assets/8e0a93d5-0c63-40af-8d8a-dc139c644b86) | 
+|:-:|
+| *Ansible output* |
+
+</div>
