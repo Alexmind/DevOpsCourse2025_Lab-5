@@ -12,7 +12,7 @@
     - name: Scan
       ansible.builtin.command: "nmap {{ item }} -p 443, 80 -oG -"
         #ansible.builtin.debug: { msg: "{{ item }}" }
-      loop: "{{ lookup('file', './targets.txt').splitlines() }}"
+      loop: "{{ query('file', './targets.txt') }}"
       register: scan_results
 
     - name: Scan result
@@ -20,4 +20,4 @@
         msg: "{{ item.stdout_lines }}"
       loop: "{{ scan_results.results }}"
       loop_control: 
-        label: ""
+        label: "Target"
