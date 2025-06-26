@@ -27,7 +27,7 @@ Laboratory #5
 ## 🖼 Screenshots
 <div align="center">
 
-| ![image](https://github.com/user-attachments/assets/8e0a93d5-0c63-40af-8d8a-dc139c644b86) | 
+| ![image](https://github.com/user-attachments/assets/4067be18-24d6-449e-b485-d1c1889ef191) | 
 |:-:|
 | *Ansible output* |
 
